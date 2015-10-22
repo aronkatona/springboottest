@@ -1,0 +1,4 @@
+INSERT INTO TESTUSER(id,username) VALUES(1,"a");
+--INSERT INTO TESTUSER(id,username) VALUES(2,"b");
+INSERT INTO TESTUSER(id,username) VALUES(3,"c");
+INSERT INTO TESTUSER(id,username) VALUES(4,"d");
